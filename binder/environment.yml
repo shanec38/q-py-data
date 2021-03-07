@@ -16,4 +16,5 @@ dependencies:
   - dask_labextension  
   - imageio
   - zarr
-  - tables
+  - pip:
+    - tables
