@@ -3,19 +3,19 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
-  - bokeh
-  - dask
+#  - bokeh
+#  - dask
   - jupyterlab
-  - nodejs
+#  - nodejs
   - tornado
   - numpy
   - pip
   - pandas
   - matplotlib
   - h5py
-  - dask_labextension  
+#  - dask_labextension  
   - imageio
-  - zarr
-  - scipy.signal
+#  - zarr
+  - scipy
   - pip:
     - tables
