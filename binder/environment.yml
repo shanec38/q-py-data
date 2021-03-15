@@ -16,5 +16,6 @@ dependencies:
   - dask_labextension  
   - imageio
   - zarr
+  - scipy.signal
   - pip:
     - tables
