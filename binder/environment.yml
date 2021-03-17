@@ -17,5 +17,6 @@ dependencies:
   - imageio
 #  - zarr
   - scipy
+  - opencv
   - pip:
     - tables
